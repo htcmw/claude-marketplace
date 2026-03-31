@@ -13,11 +13,6 @@ Kotlin coding conventions for Claude Code projects.
 
 This rule activates automatically when working with `*.kt` or `*.kts` files.
 
-## Installation
+## Usage
 
-```bash
-# From the marketplace root
-bash scripts/install-plugin.sh kotlin-conventions <target-project-path>
-```
-
-Or manually copy `rules/kotlin.md` to your project's `.claude/rules/` directory.
+Copy `rules/kotlin.md` to your project's `.claude/rules/` directory, or use it as a reference when writing project-specific rules.
